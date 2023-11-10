@@ -1,1 +1,1 @@
-# AML-23
+# Phishing Websites: Applied Machine Learning, Fall '23
